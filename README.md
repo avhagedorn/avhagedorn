@@ -1,4 +1,12 @@
-### Hi there 👋
+### hi - i'm alan :)
+
+🎓 umn '24
+
+🤝 [in/avhagedorn](https://www.linkedin.com/in/avhagedorn/)
+
+🌐 [avhagedorn.dev](https://www.avhagedorn.dev/)
+
+📨 haged077@umn.edu
 
 <!--
 **avhagedorn/avhagedorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
