@@ -8,7 +8,7 @@ I'm a senior in computer science. I'm currently wrapping up my last semester of 
 
 📄 [resume.pdf](https://www.avhagedorn.dev/static/Resume.pdf)
 
-📨 haged077@umn.edu
+📨 avhagedorn@gmail.com
 
 <!--
 **avhagedorn/avhagedorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
