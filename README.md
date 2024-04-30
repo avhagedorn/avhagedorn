@@ -8,6 +8,8 @@ I'm a senior in computer science. I'm currently wrapping up my last semester of 
 
 📄 [resume.pdf](https://www.avhagedorn.dev/static/Resume.pdf)
 
+👋🏻 [let's talk](https://cal.com/avhagedorn/30min)
+
 📨 avhagedorn@gmail.com
 
 <!--
