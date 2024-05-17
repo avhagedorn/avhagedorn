@@ -1,6 +1,6 @@
 ### hi - i'm alan :)
 
-I'm a senior in computer science. I'm currently wrapping up my last semester of university, and am looking forward to working full-time as a software engineer. Cheers! 🎉
+I'm a senior in computer science. I just graduated with my B.S. in computer science, and am looking forward to working full-time as a software engineer. Cheers! 🎓🥳
 
 🤝 [in/avhagedorn](https://www.linkedin.com/in/avhagedorn/)
 
