@@ -6,10 +6,6 @@ I'm a senior in computer science. I just graduated with my B.S. in computer scie
 
 🌐 [avhagedorn.dev](https://www.avhagedorn.dev/)
 
-📄 [resume.pdf](https://www.avhagedorn.dev/static/Resume.pdf)
-
-📨 avhagedorn@gmail.com
-
 <!--
 **avhagedorn/avhagedorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
