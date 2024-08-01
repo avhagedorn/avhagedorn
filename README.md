@@ -1,20 +1,10 @@
-### hi - i'm alan :)
+### hi, i'm alan
 
-🤝 [in/avhagedorn](https://www.linkedin.com/in/avhagedorn/)
+i'm a software engineer at meta. 
 
-🌐 [avhagedorn.dev](https://www.avhagedorn.dev/)
+i also enjoy coding on the side when i have time.  
+this profile contains some of the side projects i've worked on as a student.
 
-<!--
-**avhagedorn/avhagedorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin](https://www.linkedin.com/in/avhagedorn) &nbsp;&nbsp; | &nbsp;&nbsp; [about me](https://www.avhagedorn.dev/)
